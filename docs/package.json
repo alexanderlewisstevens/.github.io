@@ -1,0 +1,19 @@
+{
+  "name": "personal website",
+  "version": "0.0.1",
+  "description": "this is a personal website hosted on github using VuePress",
+  "main": "index.js",
+  "authors": {
+    "name": "alex",
+    "email": "alexander.lewis.stevens@gmail.com"
+  },
+  "repository": "alexanderlewisstevens.guthub.io/personal website",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
