@@ -1,5 +1,5 @@
 {
-  "name": "personal website",
+  "name": "personal_website",
   "version": "0.0.1",
   "description": "this is a personal website hosted on github using VuePress",
   "main": "index.js",
